@@ -7,7 +7,7 @@
 </p>
 
 
-> Landing page created using SASS(scss synthax) and CSS advanced Grid Layout. 
+> Landing page created using SASS(scss synthax) and advanced Grid Layout. 
 
 ## Install
 
